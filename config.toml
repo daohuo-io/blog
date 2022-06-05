@@ -1,8 +1,8 @@
 baseURL = "http://www.example.com"
-title = "johndoe"
+title = "taichhi"
 theme = "hugo-coder"
 languageCode = "en"
-defaultContentLanguage = "en"
+defaultContentLanguage = "cn"
 paginate = 20
 pygmentsStyle = "bw"
 pygmentsCodeFences = true
@@ -12,8 +12,8 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-author = "John Doe"
-description = "John Doe's personal website"
+author = "Taichi Doe"
+description = "Taichi Doe's personal website"
 keywords = "blog,developer,personal"
 info = ["Full Stack DevOps", "Magician"]
 avatarURL = "images/avatar.jpg"
